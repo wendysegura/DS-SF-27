@@ -11,7 +11,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Class | Date | Topic | Soft Deadline | Hard Deadline |
 |:---:|:---:|:---|:---|:---|
 | 1 | 9/8 | [What is Data Science](./classes/01) | | |
-| 2 | 9/13 | Research Design and _pandas_ | | |
+| 2 | 9/13 | [Research Design and _pandas_](./classes/02) | | |
 | 3 | 9/15 | Exploratory Data Analysis | | |
 | 4 | 9/20 | Flexible Class Session: Exploratory Data Analysis | **[Unit Project 1](./unit-project/1)** | |
 | 5 | 9/22 | Statistics and Model Fit | | |
