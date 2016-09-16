@@ -12,9 +12,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 |:---:|:---:|:---|:---|:---|
 | 1 | 9/8 | [What is Data Science](./classes/01) | | |
 | 2 | 9/13 | [Research Design and _pandas_](./classes/02) | | |
-| 3 | 9/15 | Exploratory Data Analysis | | |
+| 3 | 9/15 | [Exploratory Data Analysis](./classes/03) | | |
 | 4 | 9/20 | Flexible Class Session: Exploratory Data Analysis | **[Unit Project 1](./unit-project/1)** | |
-| 5 | 9/22 | Statistics and Model Fit | | |
+| 5 | 9/22 | Model Fit | | |
 | 6 | 9/27 | Linear Regression | **[Unit Project 2](./unit-project/2)** | **[Unit Project 1](./unit-project/1)** |
 | 7 | 9/29 | Linear Regression, Part 2 | | |
 | 8 | 10/4 | k-Nearest Neighbors | **[Final Project 1](./final-project/1)** | **[Unit Project 2](./unit-project/2)** |
@@ -23,15 +23,15 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 11 | 10/13 | Advanced Metrics and Communicating Results | **[Unit Project 3](./unit-project/3)** | |
 | 12 | 10/18 | Decision Trees and Random Forests | | **[Final Project 2](./final-project/2)** |
 | 13 | 10/20 | Flexible Class Session: Machine Learning Modeling, Part 2 | **[Final Project 3](./final-project/3)** | **[Unit Project 3](./unit-project/3)** |
-| 14 | 10/25 | Time Series | | |
-| 15 | 10/27 | Natural Language Processing | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
+| 14 | 10/25 | Introduction to Time Series | | |
+| 15 | 10/27 | Introduction to Natural Language Processing | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
 | 16 | 11/3 | Introduction to Databases | | |
-| 17 | 11/8 | Flexible Class Session: Machine Learning meets Marketing | **[Final Project 4](./final-project/4)** | **[Unit Project 4](./unit-project/4)** |
-| 18 | 11/10 | Wrapping Up and Next Steps | | |
+| 17 | 11/8 | Wrapping Up and Next Steps | **[Final Project 4](./final-project/4)** | **[Unit Project 4](./unit-project/4)** |
+| 18 | 11/10 | Flexible Class Session: Market Segmentation | | |
 | 19 | 11/15 | Final Project Presentations | **[Final Project 5](./final-project/5)** | **[Final Project 4](./final-project/4)**<br/>**[Final Project 5](./final-project/5)** |
 | 20 | 11/17 | Final Project Presentations, Part 2 | | |
 
-(last updated on 9/8)
+(last updated on 9/15)
 
 ## Your Team
 
