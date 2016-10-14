@@ -20,16 +20,16 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 8 | 10/4 | [k-Nearest Neighbors](./classes/08) | **[Final Project 1](./final-project/1)** | **[Unit Project 2](./unit-project/2)** |
 | 9 | 10/6 | [Logistic Regression](./classes/09) | | |
 | 10 | 10/11 | [Flexible Class Session #2: Machine Learning Modeling](./classes/10) | **[Final Project 2](./final-project/2)** | **[Final Project 1](./final-project/1)** |
-| 11 | 10/13 | Advanced Metrics and Communicating Results | **[Unit Project 3](./unit-project/3)** | |
+| 11 | 10/13 | [Advanced Metrics and Communicating Results](./classes/11) | **[Unit Project 3](./unit-project/3)** | |
 | 12 | 10/18 | Decision Trees and Random Forests | | **[Final Project 2](./final-project/2)** |
 | 13 | 10/20 | Flexible Class Session #3: Machine Learning Modeling, Part 2 | **[Final Project 3](./final-project/3)** | **[Unit Project 3](./unit-project/3)** |
 | 14 | 10/25 | Introduction to Time Series | | |
 | 15 | 10/27 | Introduction to Natural Language Processing | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
-| 16 | 11/3 | Introduction to Databases | | |
-| 17 | 11/8 | Wrapping Up and Next Steps | **[Final Project 4](./final-project/4)** | **[Unit Project 4](./unit-project/4)** |
-| 18 | 11/10 | Flexible Class Session #4: Market Segmentation | | |
-| 19 | 11/15 | Final Project Presentations | **[Final Project 5](./final-project/5)** | **[Final Project 4](./final-project/4)**<br/>**[Final Project 5](./final-project/5)** |
-| 20 | 11/17 | Final Project Presentations, Part 2 | | |
+| 16 | 11/1 | Introduction to Databases | | |
+| 17 | 11/3 | Wrapping Up and Next Steps | **[Final Project 4](./final-project/4)** | **[Unit Project 4](./unit-project/4)** |
+| 18 | 11/8 | Flexible Class Session #4: Market Segmentation | | |
+| 19 | 11/10 | Final Project Presentations | **[Final Project 5](./final-project/5)** | **[Final Project 4](./final-project/4)**<br/>**[Final Project 5](./final-project/5)** |
+| 20 | 11/15 | Final Project Presentations, Part 2 | | |
 
 (last updated on 9/15)
 
