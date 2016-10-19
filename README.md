@@ -21,7 +21,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 9 | 10/6 | [Logistic Regression](./classes/09) | | |
 | 10 | 10/11 | [Flexible Class Session #2: Machine Learning Modeling](./classes/10) | **[Final Project 2](./final-project/2)** | **[Final Project 1](./final-project/1)** |
 | 11 | 10/13 | [Advanced Metrics and Communicating Results](./classes/11) | **[Unit Project 3](./unit-project/3)** | |
-| 12 | 10/18 | Decision Trees and Random Forests | | **[Final Project 2](./final-project/2)** |
+| 12 | 10/18 | [Decision Trees and Random Forests](./classes/12) | | **[Final Project 2](./final-project/2)** |
 | 13 | 10/20 | Flexible Class Session #3: Machine Learning Modeling, Part 2 | **[Final Project 3](./final-project/3)** | **[Unit Project 3](./unit-project/3)** |
 | 14 | 10/25 | Introduction to Time Series | | |
 | 15 | 10/27 | Introduction to Natural Language Processing | **[Unit Project 4](./unit-project/4)** | **[Final Project 3](./final-project/3)** |
@@ -31,7 +31,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 19 | 11/10 | Final Project Presentations | **[Final Project 5](./final-project/5)** | **[Final Project 4](./final-project/4)**<br/>**[Final Project 5](./final-project/5)** |
 | 20 | 11/15 | Final Project Presentations, Part 2 | | |
 
-(last updated on 9/15)
+(last updated on 10/13)
 
 ## Your Team
 
@@ -57,7 +57,7 @@ You've all been invited to use [Slack](https://ds-sf-27.slack.com) for chat duri
 | [1](./unit-project/1) | Research Design Write-Up | Create a problem statement, analysis plan, and data dictionary | 9/20 | 9/27 |
 | [2](./unit-project/2) | Exploratory Data Analysis | Perform exploratory data analysis using visualizations and statistical analysis | 9/27 | 10/4 |
 | [3](./unit-project/3) | Basic Machine Learning Modeling | Transform variables, perform logistic regressions, and predict class probabilities | 10/13 | 10/20 |
-| [4](./unit-project/4) | Notebook with Executive Summary | Present your findings in a Jupyter notebook with executive summary, visuals, and recommendations | 10/27 | 11/8 |
+| [4](./unit-project/4) | Notebook with Executive Summary | Present your findings in a Jupyter notebook with executive summary, visuals, and recommendations | 10/27 | 11/3 |
 
 ## Final Project
 
@@ -66,5 +66,5 @@ You've all been invited to use [Slack](https://ds-sf-27.slack.com) for chat duri
 | [1](./final-project/1) | Lightning Presentation | Prepare a one-minute lightning talk that covers 3 potential project topics | 10/4 | 10/11 |
 | [2](./final-project/2) | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | 10/11 | 10/18 |
 | [3](./final-project/3) | Exploratory Data Analysis | Confirm your data and create an exploratory data analysis notebook with statistical analysis and visualization | 10/20 | 10/27 |
-| [4](./final-project/4) | Notebook Draft | Detailed technical Jupyter notebook with a summary of your statistical analysis, model, and evaluation metrics | 11/8 | 11/15 |
-| [4](./final-project/4) | Presentation | Detailed presentation deck that relates your data, model, findings, and recommandations to a non-technical audience | 11/15 | 11/15 |
+| [4](./final-project/4) | Notebook Draft | Detailed technical Jupyter notebook with a summary of your statistical analysis, model, and evaluation metrics | 11/3 | 11/10 |
+| [4](./final-project/4) | Presentation | Detailed presentation deck that relates your data, model, findings, and recommandations to a non-technical audience | 11/10 | 11/10 |
